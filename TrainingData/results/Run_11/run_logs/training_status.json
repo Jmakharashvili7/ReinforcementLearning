@@ -1,0 +1,65 @@
+{
+    "Drive": {
+        "checkpoints": [
+            {
+                "steps": 1499989,
+                "file_path": "results\\NoCheckpoint_01\\Drive\\Drive-1499989.onnx",
+                "reward": 4.365116418794144,
+                "creation_time": 1680204253.5546916,
+                "auxillary_file_paths": [
+                    "results\\NoCheckpoint_01\\Drive\\Drive-1499989.pt"
+                ]
+            },
+            {
+                "steps": 1999995,
+                "file_path": "results\\NoCheckpoint_01\\Drive\\Drive-1999995.onnx",
+                "reward": 4.413636473092166,
+                "creation_time": 1680204888.7012725,
+                "auxillary_file_paths": [
+                    "results\\NoCheckpoint_01\\Drive\\Drive-1999995.pt"
+                ]
+            },
+            {
+                "steps": 2499981,
+                "file_path": "results\\NoCheckpoint_01\\Drive\\Drive-2499981.onnx",
+                "reward": 4.100000160081046,
+                "creation_time": 1680205516.747026,
+                "auxillary_file_paths": [
+                    "results\\NoCheckpoint_01\\Drive\\Drive-2499981.pt"
+                ]
+            },
+            {
+                "steps": 2999995,
+                "file_path": "results\\NoCheckpoint_01\\Drive\\Drive-2999995.onnx",
+                "reward": 4.565789589756413,
+                "creation_time": 1680206142.8990006,
+                "auxillary_file_paths": [
+                    "results\\NoCheckpoint_01\\Drive\\Drive-2999995.pt"
+                ]
+            },
+            {
+                "steps": 3155741,
+                "file_path": "results\\NoCheckpoint_01\\Drive\\Drive-3155741.onnx",
+                "reward": null,
+                "creation_time": 1680206406.4403398,
+                "auxillary_file_paths": [
+                    "results\\NoCheckpoint_01\\Drive\\Drive-3155741.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3155741,
+            "file_path": "results\\NoCheckpoint_01\\Drive.onnx",
+            "reward": null,
+            "creation_time": 1680206406.4403398,
+            "auxillary_file_paths": [
+                "results\\NoCheckpoint_01\\Drive\\Drive-3155741.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "RaceDriver": {
+        "checkpoints": [
+            {
+                "steps": 7184,
+                "file_path": "results\\temp\\RaceDriver\\RaceDriver-7184.onnx",
+                "reward": -54.07064143630365,
+                "creation_time": 1683884280.50696,
+                "auxillary_file_paths": [
+                    "results\\temp\\RaceDriver\\RaceDriver-7184.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7184,
+            "file_path": "results\\temp\\RaceDriver.onnx",
+            "reward": -54.07064143630365,
+            "creation_time": 1683884280.50696,
+            "auxillary_file_paths": [
+                "results\\temp\\RaceDriver\\RaceDriver-7184.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}

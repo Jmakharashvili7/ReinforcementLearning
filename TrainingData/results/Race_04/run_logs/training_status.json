@@ -1,0 +1,65 @@
+{
+    "RaceDriver": {
+        "checkpoints": [
+            {
+                "steps": 999990,
+                "file_path": "results\\FinalRun_00\\RaceDriver\\RaceDriver-999990.onnx",
+                "reward": 0.00863340824642884,
+                "creation_time": 1683514472.0566728,
+                "auxillary_file_paths": [
+                    "results\\FinalRun_00\\RaceDriver\\RaceDriver-999990.pt"
+                ]
+            },
+            {
+                "steps": 1499982,
+                "file_path": "results\\FinalRun_00\\RaceDriver\\RaceDriver-1499982.onnx",
+                "reward": null,
+                "creation_time": 1683515165.130662,
+                "auxillary_file_paths": [
+                    "results\\FinalRun_00\\RaceDriver\\RaceDriver-1499982.pt"
+                ]
+            },
+            {
+                "steps": 1999974,
+                "file_path": "results\\FinalRun_00\\RaceDriver\\RaceDriver-1999974.onnx",
+                "reward": null,
+                "creation_time": 1683515886.6258478,
+                "auxillary_file_paths": [
+                    "results\\FinalRun_00\\RaceDriver\\RaceDriver-1999974.pt"
+                ]
+            },
+            {
+                "steps": 2499974,
+                "file_path": "results\\FinalRun_00\\RaceDriver\\RaceDriver-2499974.onnx",
+                "reward": null,
+                "creation_time": 1683516577.3960226,
+                "auxillary_file_paths": [
+                    "results\\FinalRun_00\\RaceDriver\\RaceDriver-2499974.pt"
+                ]
+            },
+            {
+                "steps": 2576322,
+                "file_path": "results\\FinalRun_00\\RaceDriver\\RaceDriver-2576322.onnx",
+                "reward": null,
+                "creation_time": 1683516690.5137906,
+                "auxillary_file_paths": [
+                    "results\\FinalRun_00\\RaceDriver\\RaceDriver-2576322.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2576322,
+            "file_path": "results\\FinalRun_00\\RaceDriver.onnx",
+            "reward": null,
+            "creation_time": 1683516690.5137906,
+            "auxillary_file_paths": [
+                "results\\FinalRun_00\\RaceDriver\\RaceDriver-2576322.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "RaceDriver": {
+        "checkpoints": [
+            {
+                "steps": 2999976,
+                "file_path": "results\\FinishedDriver\\RaceDriver\\RaceDriver-2999976.onnx",
+                "reward": -51.75352135010891,
+                "creation_time": 1683741721.6549182,
+                "auxillary_file_paths": [
+                    "results\\FinishedDriver\\RaceDriver\\RaceDriver-2999976.pt"
+                ]
+            },
+            {
+                "steps": 3499944,
+                "file_path": "results\\FinishedDriver\\RaceDriver\\RaceDriver-3499944.onnx",
+                "reward": -4.898148351659377,
+                "creation_time": 1683742434.8794944,
+                "auxillary_file_paths": [
+                    "results\\FinishedDriver\\RaceDriver\\RaceDriver-3499944.pt"
+                ]
+            },
+            {
+                "steps": 3999998,
+                "file_path": "results\\FinishedDriver\\RaceDriver\\RaceDriver-3999998.onnx",
+                "reward": 12.004777133464813,
+                "creation_time": 1683743152.3692524,
+                "auxillary_file_paths": [
+                    "results\\FinishedDriver\\RaceDriver\\RaceDriver-3999998.pt"
+                ]
+            },
+            {
+                "steps": 4499938,
+                "file_path": "results\\FinishedDriver\\RaceDriver\\RaceDriver-4499938.onnx",
+                "reward": null,
+                "creation_time": 1683743877.3897526,
+                "auxillary_file_paths": [
+                    "results\\FinishedDriver\\RaceDriver\\RaceDriver-4499938.pt"
+                ]
+            },
+            {
+                "steps": 4818222,
+                "file_path": "results\\FinishedDriver\\RaceDriver\\RaceDriver-4818222.onnx",
+                "reward": 11.42844296619296,
+                "creation_time": 1683744437.5888915,
+                "auxillary_file_paths": [
+                    "results\\FinishedDriver\\RaceDriver\\RaceDriver-4818222.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4818222,
+            "file_path": "results\\FinishedDriver\\RaceDriver.onnx",
+            "reward": 11.42844296619296,
+            "creation_time": 1683744437.5888915,
+            "auxillary_file_paths": [
+                "results\\FinishedDriver\\RaceDriver\\RaceDriver-4818222.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}

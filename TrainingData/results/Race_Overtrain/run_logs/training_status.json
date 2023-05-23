@@ -1,0 +1,47 @@
+{
+    "RaceDriver": {
+        "checkpoints": [
+            {
+                "steps": 499952,
+                "file_path": "results\\FinishedDriver_Faster\\RaceDriver\\RaceDriver-499952.onnx",
+                "reward": null,
+                "creation_time": 1683754585.3531587,
+                "auxillary_file_paths": [
+                    "results\\FinishedDriver_Faster\\RaceDriver\\RaceDriver-499952.pt"
+                ]
+            },
+            {
+                "steps": 999992,
+                "file_path": "results\\FinishedDriver_Faster\\RaceDriver\\RaceDriver-999992.onnx",
+                "reward": -102.16575241088867,
+                "creation_time": 1683755266.9000165,
+                "auxillary_file_paths": [
+                    "results\\FinishedDriver_Faster\\RaceDriver\\RaceDriver-999992.pt"
+                ]
+            },
+            {
+                "steps": 1404096,
+                "file_path": "results\\FinishedDriver_Faster\\RaceDriver\\RaceDriver-1404096.onnx",
+                "reward": -174.56234335899353,
+                "creation_time": 1683755885.613061,
+                "auxillary_file_paths": [
+                    "results\\FinishedDriver_Faster\\RaceDriver\\RaceDriver-1404096.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1404096,
+            "file_path": "results\\FinishedDriver_Faster\\RaceDriver.onnx",
+            "reward": -174.56234335899353,
+            "creation_time": 1683755885.613061,
+            "auxillary_file_paths": [
+                "results\\FinishedDriver_Faster\\RaceDriver\\RaceDriver-1404096.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}

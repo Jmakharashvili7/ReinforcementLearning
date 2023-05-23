@@ -1,0 +1,38 @@
+{
+    "RaceDriver": {
+        "checkpoints": [
+            {
+                "steps": 499964,
+                "file_path": "results\\Final_03\\RaceDriver\\RaceDriver-499964.onnx",
+                "reward": -1.2012717443016858,
+                "creation_time": 1682691946.7834287,
+                "auxillary_file_paths": [
+                    "results\\Final_03\\RaceDriver\\RaceDriver-499964.pt"
+                ]
+            },
+            {
+                "steps": 751326,
+                "file_path": "results\\Final_03\\RaceDriver\\RaceDriver-751326.onnx",
+                "reward": -0.41666668001562357,
+                "creation_time": 1682692222.3903458,
+                "auxillary_file_paths": [
+                    "results\\Final_03\\RaceDriver\\RaceDriver-751326.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 751326,
+            "file_path": "results\\Final_03\\RaceDriver.onnx",
+            "reward": -0.41666668001562357,
+            "creation_time": 1682692222.3903458,
+            "auxillary_file_paths": [
+                "results\\Final_03\\RaceDriver\\RaceDriver-751326.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}
